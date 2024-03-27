@@ -20,3 +20,8 @@ these changes should just be on third branch
 
 
 i think this change should be made on third?
+
+
+
+
+This is now what needs to be merged into third and will cause conflict? 
